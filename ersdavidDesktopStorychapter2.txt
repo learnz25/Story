@@ -1,17 +1,1 @@
-[33mcommit 6d4d508395ee8ea847c13c05e0ee0b7cc061866b[m[33m ([m[1;36mHEAD -> [m[1;32malien-plot[m[33m)[m
-Author: learn <testlearning2510@gmail.com>
-Date:   Mon Oct 30 00:18:46 2023 -0700
-
-    modify chapter 1 and 2 to have alien themes
-
-[33mcommit ec51ee1940ea060f2bb773c9c512cf2ee67835e4[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
-Author: learn <testlearning2510@gmail.com>
-Date:   Sat Oct 28 02:01:12 2023 -0700
-
-    Complete Chapter 2
-
-[33mcommit a981a6e9049c78990d522cbeebbe40b19a0f0c2f[m
-Author: learn <testlearning2510@gmail.com>
-Date:   Sat Oct 28 01:52:39 2023 -0700
-
-    Complete Chapter 1
+Complete Chapter 1
